@@ -14,7 +14,8 @@
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
-	<preference name="Orientation" value="landscape" />
+	<!-- forzar a verlo solo en horizontal -->
+	<preference name="orientation" value="landscape" />
 	
     <author href="https://build.phonegap.com" email="fabiangarcia1935@gmail.com">
         FABIAN GARCIA
